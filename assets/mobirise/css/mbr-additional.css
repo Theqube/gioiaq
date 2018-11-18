@@ -1448,21 +1448,20 @@ body {
   text-align: left;
   color: #1f8780;
 }
-.cid-r9GdtpwUjN {
+.cid-r9LlVF0Rlx {
   background-image: url("../../../assets/images/lookbook-new-collection-men-1181x758.jpg");
 }
-.cid-r9GdtpwUjN H1 {
-  color: #5e1629;
-}
-.cid-r9GdtpwUjN B {
-  color: #0c645e;
-}
-.cid-r9GdtpwUjN H3 {
-  text-align: right;
-}
-.cid-r9GdtpwUjN P {
+.cid-r9LlVF0Rlx H1 {
   color: #0c645e;
   text-align: right;
+}
+.cid-r9LlVF0Rlx .mbr-text,
+.cid-r9LlVF0Rlx .mbr-section-btn {
+  text-align: center;
+}
+.cid-r9LlVF0Rlx H3 {
+  text-align: right;
+  color: #0c645e;
 }
 .cid-r9GyfZUgLq {
   padding-top: 90px;
